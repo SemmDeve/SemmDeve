@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SemmDeve
+- 👋 Hi, I’m @Semmy
 - 👀 I’m interested in AI ML and Game Dev 
 - 🌱 I’m currently learning About AI and Data Science
 - 💞️ I’m looking to collaborate on Game Development
