@@ -2,7 +2,7 @@
 # Hi There my name Semmy
 ## About Me
 ```
- im a smail indie game developer. and Im using Godot to do a lot of my project.
+ im a small indie game developer. and Im using Godot to do a lot of my project.
  and Im currently working on three game's one of it call Neolithic.
  if you guys wanna check it out here is the link of my itch io page
  - https://fuzzfox.itch.io/ 
