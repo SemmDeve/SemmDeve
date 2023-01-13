@@ -2,9 +2,9 @@
 
 ### Litle about me 🔅
 I'm an Intermediate iOS developer.
-Currently working as a Head iOS developer in
-Qboe, besides working as an iOS developer I have a 4 Year's experience in Game development, Machine learning
-and Web Development, My daily programing language is Swift, Python, C++, and JS, and now I'm trying to learn Julia 
+Currently work as a Head iOS App developer in
+Qboe, besides working as an iOS App developer I have a 4 Year's experience in Game development, Machine learning
+and Web Development, My daily programming language is Swift, Python, C++, and JS, and now I'm trying to learn Julia 
 Algorithm-driven language, right now I'm still working on a 
 Medic school App project in Qboe, After that I will go to FAANG,
 To find the right job for me
