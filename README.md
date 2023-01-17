@@ -11,6 +11,7 @@ To find the right job for me
 
 ### One of my project
 [![Kodefin](https://www.kodefin.com/img/logo.png)](https://www.kodefin.com/) 
+
 Kodefin is a website that can sharpen your skills
 
 ## What do i do now
