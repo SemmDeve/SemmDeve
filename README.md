@@ -10,7 +10,7 @@ Medic school App project in Qboe, After that I will go to FAANG,
 To find the right job for me
 
 ### One of my project
-![Kodefin](https://www.kodefin.com/img/logo.png)
+[![Kodefin](https://www.kodefin.com/img/logo.png)](https://www.kodefin.com/)
 
 Kodefin is a website that can sharpen your skills
 
