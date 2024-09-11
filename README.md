@@ -10,9 +10,9 @@ Medic school App project in Qboe, After that I will go to FAANG,
 To find the right job for me
 
 ### One of my project
-[![Kodik FKUI](https://kodik.obgynfkuirscm.com/img/ui-logo.png)](https://kodik.obgynfkuirscm.com/) Website
-[![Kolegium Elogbook](https://kolegiumobgin.org/img/logo.png)](https://kolegiumobgin.org/) iOS Application
-[![FuzzyFox](https://img.itch.zone/aW1nLzgzNTAxMTIucG5n/80x80%23/QZ2E56.png)](https://fuzzyfoxx.itch.io/oogasboogas) Game Development
+[![Kodik FKUI] ](https://kodik.obgynfkuirscm.com/) Website Development
+[![Kolegium Logbook] ](https://apps.apple.com/id/app/kolegium-e-logbook/id6450104293) iOS Development
+[![FuzzyFox] ](https://fuzzyfoxx.itch.io/oogasboogas) Game Development
 
 ## What do I do now
 
